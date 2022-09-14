@@ -7,4 +7,4 @@ Proponemos una inteligencia artificial con la capacidad de reconocer un incendio
 
 
 Enlace del video : https://youtu.be/Nch4zbamKSg
-
+Enlace Diaposititvas : https://docs.google.com/presentation/d/1XV9RgCnp2biNEi1O2tReYVKNe3XrF5iZX-YB5gDOGsk/edit?usp=sharing
